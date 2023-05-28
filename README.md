@@ -5,7 +5,7 @@ PrusaSlicer profiles for Z-Bolt series 3D printers.
 
 Profiles support basic print settings and generic filaments pre-calibrated for optimal printing on Z-Bolt 3D printers.
 
-Currently supported printer series are Z-Bolt L32, Z-Bolt S32, Z-Bolt S300, Z-Bolt S400.
+Currently supported printer series are Z-Bolt S32, Z-Bolt S300, Z-Bolt S300HT, Z-Bolt S400, Z-Bolt S600.
 
 Installation instructions:
 
@@ -19,7 +19,7 @@ RUS: Профили PrusaSlicer для принтеров Z-Bolt.
 
 Профили поддерживают основные варианты качества печати и предварительно откалиброванные филаменты для оптимальной печати на принтерах Z-Bolt.
 
-В настоящий момент поддерживаются принтеры серии Z-Bolt L32, Z-Bolt S32, Z-Bolt S300, Z-Bolt S400.
+В настоящий момент поддерживаются принтеры серии Z-Bolt S32, Z-Bolt S300, Z-Bolt S300HT, Z-Bolt S400, Z-Bolt S600.
 
 Инструкции по установке:
 
